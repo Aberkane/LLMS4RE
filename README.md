@@ -8,8 +8,8 @@ _Purpose:_ Ensuring compliance with the General Data Protection Regulation (GDPR
 ## Author(s) Blinded
 
 ## Supplementary Materials: Appendices
-- **Appendix A - User Stories**: [full output](https://github.com/Aberkane/LLMS4RE/blob/90001f991c63c5f9d3d91e731edf503e8ef4ace8/A%20-%20User%20Stories.pdf)
-- **Appendix B - In-Context Prompting**: [full output](https://github.com/Aberkane/LLMS4RE/blob/90001f991c63c5f9d3d91e731edf503e8ef4ace8/B%20-%20In-Context%20Prompting.pdf)
+- [**Appendix A - User Stories**](https://github.com/Aberkane/LLMS4RE/blob/90001f991c63c5f9d3d91e731edf503e8ef4ace8/A%20-%20User%20Stories.pdf)
+- [**Appendix B - In-Context Prompting**](https://github.com/Aberkane/LLMS4RE/blob/90001f991c63c5f9d3d91e731edf503e8ef4ace8/B%20-%20In-Context%20Prompting.pdf)
 - [**Appendix C - Survey Items**](https://github.com/Aberkane/LLMS4RE/blob/90001f991c63c5f9d3d91e731edf503e8ef4ace8/C%20-%20Survey%20Items.pdf)
 
 
