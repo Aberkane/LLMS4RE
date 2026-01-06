@@ -10,9 +10,12 @@ _Purpose:_ Ensuring compliance with the General Data Protection Regulation (GDPR
 #### Submitted to the Requirements Engineering journal
 
 ## Supplementary Materials: Appendices
-- [**Appendix A - User Stories**](https://github.com/Aberkane/LLMS4RE/blob/90001f991c63c5f9d3d91e731edf503e8ef4ace8/A%20-%20User%20Stories.pdf)
-- [**Appendix B - In-Context Prompting**](https://github.com/Aberkane/LLMS4RE/blob/90001f991c63c5f9d3d91e731edf503e8ef4ace8/B%20-%20In-Context%20Prompting.pdf)
-- [**Appendix C - Survey Items**](https://github.com/Aberkane/LLMS4RE/blob/90001f991c63c5f9d3d91e731edf503e8ef4ace8/C%20-%20Survey%20Items.pdf)
+- [**Appendix A - User Stories**](https://aberkane.github.io/LLMS4RE/A%20-%20User%20Stories.pdf
+)
+- [**Appendix B - In-Context Prompting**](https://aberkane.github.io/LLMS4RE/B%20-%20In-Context%20Prompting.pdf
+)
+- [**Appendix C - Survey Items**](https://aberkane.github.io/LLMS4RE/C%20-%20Survey%20Items.pdf
+)
 
 
 <!-- ## Welcome to GitHub Pages
